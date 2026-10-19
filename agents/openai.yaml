@@ -1,0 +1,7 @@
+interface:
+  display_name: "Be Human"
+  short_description: "根拠と書き手の調子を保ち、提案書・記事・業務文章の定型感を減らす"
+  default_prompt: "$be-human を使い、この原稿の意味と根拠を保ちながら、読み手と用途に合う自然な日本語に整えてください。見本文があれば、その調子も反映してください。"
+
+policy:
+  allow_implicit_invocation: false
